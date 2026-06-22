@@ -1,0 +1,7 @@
+Content:
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
